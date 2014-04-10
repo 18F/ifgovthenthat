@@ -27,6 +27,7 @@ Share your ideas here!
  * If natural disaster happens, publish data from National Map: http://catalog.data.gov/dataset/the-national-map - @mkramer
  * If a certain person or organization visits the White House (use White House visitor log API) notify me by email/tweet it/etc. - @mkramer
  * If it's my birthday, send me a random newspaper from my birthday that's been digitized by the Library of Congress: http://chroniclingamerica.loc.gov/about/api/ -@mkramer
+ * If the government creates a new social media account (http://registery.usa.gov) follow them/tweet about it/etc.
 
 logistics/questions
 --
