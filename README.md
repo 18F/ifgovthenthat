@@ -24,10 +24,10 @@ Share your ideas here!
 * If Natural Disaster (per NOAA) then Resources (localized per GPS) (FEMA) + (CDC) + (HHS) + (Coast Guard) + (National Guard) @hobokenmartha
 * Link to Google Docs / Dropbox so that APIs with information can be downloaded easily and tracked by people who may have uses for them that we can't think of. - @mkramer
 * Connect all projects to Google Drive or Dropbox for people to collect information for future projects that we might not be aware of yet. (i.e. information about clinical trials, etc.) - @mkramer
- * If natural disaster happens, publish data from National Map: http://catalog.data.gov/dataset/the-national-map - @mkramer
- * If a certain person or organization visits the White House (use White House visitor log API) notify me by email/tweet it/etc. - @mkramer
- * If it's my birthday, send me a random newspaper from my birthday that's been digitized by the Library of Congress: http://chroniclingamerica.loc.gov/about/api/ -@mkramer
- * If the government creates a new social media account (http://registery.usa.gov) follow them/tweet about it/etc.
+* If natural disaster happens, publish data from National Map: http://catalog.data.gov/dataset/the-national-map - @mkramer
+* If a certain person or organization visits the White House (use White House visitor log API) notify me by email/tweet it/etc. - @mkramer
+* If it's my birthday, send me a random newspaper from my birthday that's been digitized by the Library of Congress: http://chroniclingamerica.loc.gov/about/api/ -@mkramer
+* If the government creates a new social media account (http://registery.usa.gov) follow them/tweet about it/etc.
 
 logistics/questions
 --
