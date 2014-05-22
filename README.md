@@ -29,6 +29,11 @@ Share your ideas here!
 * If it's my birthday, send me a random newspaper from my birthday that's been digitized by the Library of Congress: http://chroniclingamerica.loc.gov/about/api/ -@mkramer
 * If the government creates a new social media account (http://registery.usa.gov) follow them/tweet about it/etc.
 
+Potential Material
+* [Developer Hubs](http://18f.github.io/API-All-the-X/data/developer_hubs) 
+* [Individual APIs](https://github.com/GSA/slash-developer-pages/blob/master/Loose_APIs.md) 
+
+
 logistics/questions
 --
 
