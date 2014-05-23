@@ -1,7 +1,7 @@
 ifgovthenthat
 =============
 
-[If Gov Then That website](http://codefordc.github.io/ifgovthenthat)
+[If Gov Then That website](http://18f.github.io/ifgovthenthat)
 
 ideas
 =====
