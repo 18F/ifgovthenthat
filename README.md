@@ -30,8 +30,8 @@ Share your ideas here!
 * If the government creates a new social media account (http://registery.usa.gov) follow them/tweet about it/etc.
 
 Potential Material
-* [Developer Hubs](http://18f.github.io/API-All-the-X/data/developer_hubs) 
-* [Individual APIs](https://github.com/GSA/slash-developer-pages/blob/master/Loose_APIs.md) 
+* [Developer Hubs](http://18f.github.io/API-All-the-X/data/developer_hubs)
+* [Individual APIs](https://github.com/GSA/slash-developer-pages/blob/master/Loose_APIs.md)
 
 
 logistics/questions
@@ -46,3 +46,12 @@ based on that.
 * https://github.com/cantino/huginn - an ifttt clone
 * https://github.com/ggaughan/pipe2py/ - a way to compile pipes with python
 * http://www.crummy.com/software/BeautifulSoup/bs4/doc/ -- to scrape web.
+
+
+### Public domain
+
+This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
+
+> This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+>
+> All contributions to this project will be relatedsed under the CC0 dedication. By submitting a pull request, you are agreeing to comply with this waiver of copyright interest.
