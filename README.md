@@ -1,7 +1,7 @@
 ### About If Gov Then That
 
-[If Gov Then That website](http://18f.github.io/ifgovthenthat)
-[If Gov Then That on Twitter](http://twitter.com/ifgovthenthat)
+* [If Gov Then That website](http://18f.github.io/ifgovthenthat)
+* [If Gov Then That on Twitter](http://twitter.com/ifgovthenthat)
 
 ### Ideas
 
