@@ -12,6 +12,14 @@ Helpful resources for brainstorming:
 * [Developer Hubs](http://18f.github.io/API-All-the-X/data/developer_hubs)
 * [Individual APIs](https://github.com/GSA/slash-developer-pages/blob/master/Loose_APIs.md)
 
+### IfGovThenThat Collection
+* [OPM alert for 2 hour delays](https://ifttt.com/recipes/253400-alert-my-iphone-whenever-there-is-an-opm-2-hr-delay)
+* [NOAA Severe Weather alert feed](https://ifttt.com/recipes/search?q=noaa&ac=false)
+* []()
+* []()
+* []()
+
+
 ### Public domain
 
 This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
