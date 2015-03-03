@@ -18,7 +18,7 @@ Any level of tech skill can contribute to this project. You might be especially 
 Here are a few ways you can get involved:
 
 * **Get creative:** You could start by brainstorming government services and how they might be used. Review this list of [government APIs](http://catalog.data.gov/dataset?q=api+OR++res_format%3Aapi) for ideas. [Add your ideas here](https://github.com/18f/ifgovthenthat/issues/2).
-* **Learn more about APIs:** You can learn more about APIs on [Zapier](https://zapier.com/learn/apis/) or [Code Academy](http://codeacademy.org/). (Additional recommendations for learning more about APIs are very welcome.)
+* **Learn more about APIs:** You can learn more about APIs on [Zapier](https://zapier.com/learn/apis/) or [Code Academy](http://codecademy.com/). (Additional recommendations for learning more about APIs are very welcome.)
   
 ### Questions? Want to discuss something?
 
