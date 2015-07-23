@@ -1,5 +1,7 @@
 ### About If Gov Then That
 
+Our goal is to promote government APIs and learn more about them. We are creating clever uses for gov APIs to promote and educate the public about APIs, government data, and agencies. This project uses IFTTT’s two-part trigger and action idea. So, if something happens (like the government posts a new data set) that’s a trigger that leads to an action (for example, the data gets saved to your Google drive directory).
+
 * [If Gov Then That website](http://18f.github.io/ifgovthenthat)
 * [If Gov Then That on Twitter](http://twitter.com/ifgovthenthat)
 
@@ -15,9 +17,7 @@ Helpful resources for brainstorming:
 ### IfGovThenThat Collection
 * [OPM alert for 2 hour delays](https://ifttt.com/recipes/253400-alert-my-iphone-whenever-there-is-an-opm-2-hr-delay)
 * [NOAA Severe Weather alert feed](https://ifttt.com/recipes/search?q=noaa&ac=false)
-* []()
-* []()
-* []()
+
 
 
 ### Public domain
